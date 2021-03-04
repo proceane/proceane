@@ -1,4 +1,3 @@
-### Hi there 👋
 
 <!--
 **proceane/proceane** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,7 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### Hello My name is Ju-Yeon Kim. I want to be ever-growing developer.
+### 👋 Hello My name is Ju-Yeon Kim. I want to be ever-growing developer. 👋
 #### Introduce
 I didn't major in computer science, but i like this, want to learn this.
 So, I am studying everyday for about 2 hours after work.
