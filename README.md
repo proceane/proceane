@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 
 ### 👋 I want to be ever-growing developer. 👋
 
-#### Stack
+<!--#### Stack
 | stack | level | explanation |
 |-------|-------|-------------|
 |<img src="https://img.shields.io/badge/java-007396?style=flat-square&logo=java&logoColor=white"/>&nbsp;| Intermediate | using this language now in company I work for. |
@@ -27,3 +27,4 @@ Here are some ideas to get you started:
 |<img src="https://img.shields.io/badge/nodejs-339933?style=flat-square&logo=nodejs&logoColor=white"/>&nbsp;|Beginner| |
 |<img src="https://img.shields.io/badge/mysql-4479A1?style=flat-square&logo=mysql&logoColor=white"/>&nbsp;|Intermediate| can write SQL pharse using join, sub query, group function, etc.|
 |<img src="https://img.shields.io/badge/firebase-FFCA28?style=flat-square&logo=firebase&logoColor=white"/>&nbsp;|Beginner|I have experience registering hierarchical data.|
+-->
