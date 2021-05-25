@@ -15,13 +15,9 @@ Here are some ideas to get you started:
 -->
 
 <!--### 👋 I want to be ever-growing developer. 👋-->
-<h1 align="center">Hi 👋, I'm Juyeon Kim</h1>
-<h3 align="center">I want to be ever-growing developer.</h3>
+<h3 align="center">I'm Juyeon Kim, I want to be ever-growing developer.</h3>
 
-- 🌱 I’m currently studying **algorithm, web, database, java**
-
-- 📫 How to reach me **proceane1@gmail.com**
-
+<p align="center">🌱 I’m currently studying <strong>algorithm, web, database, java<strong></p>
 
 <h3 align="center">Languages and Tools:</h3>
 <p align="center"> <a href="https://www.djangoproject.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg" alt="django" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> <a href="https://vuetifyjs.com/en/" target="_blank"> <img src="https://bestofjs.org/logos/vuetify.svg" alt="vuetify" width="40" height="40"/> </a> </p>
