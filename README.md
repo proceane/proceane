@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### 👋 I want to be ever-growing developer. 👋
+<!--### 👋 I want to be ever-growing developer. 👋-->
 
 <!--#### Stack
 | stack | level | explanation |
