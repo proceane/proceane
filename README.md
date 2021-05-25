@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=proceane)](https://github.com/anuraghazra/github-readme-stats)
 &nbsp;![GitHub stats](https://github-readme-stats.vercel.app/api?username=proceane&theme=algolia)  
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=proceane)  
+<!--![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=proceane)  -->
 
 <!--#### Stack
 | stack | level | explanation |
