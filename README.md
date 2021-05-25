@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 -->
 
 <!--### 👋 I want to be ever-growing developer. 👋-->
-<h1 align="center">Hi 👋, I'm JuYeon Kim</h1>
+<h1 align="center">Hi 👋, I'm Juyeon Kim</h1>
 <h3 align="center">I want to be ever-growing developer.</h3>
 
 - 🌱 I’m currently studying **algorithm, web, database, java**
