@@ -23,6 +23,19 @@ Here are some ideas to get you started:
 <h3 align="center">Languages and Tools:</h3>
 <p align="center"> <a href="https://www.djangoproject.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg" alt="django" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> <a href="https://vuetifyjs.com/en/" target="_blank"> <img src="https://bestofjs.org/logos/vuetify.svg" alt="vuetify" width="40" height="40"/> </a> </p>
 
+<h3 align="center">Stack</h3>
+<img src="https://img.shields.io/badge/JAVA-416db0?style=flat-square&logo=Java&logoColor=white">
+<img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white">
+<img src="https://img.shields.io/badge/SPRING_BOOT-7aa84d?style=flat-square&logo=SpringBoot&logoColor=white">
+<img src="https://img.shields.io/badge/JPA-7aa84d?style=flat-square&logo=&logoColor=white">
+<img src="https://img.shields.io/badge/JWT-7aa84d?style=flat-square&logo=&logoColor=white">
+<img src="https://img.shields.io/badge/MySQL-335b7f?style=flat-square&logo=Mysql&logoColor=white">
+<img src="https://img.shields.io/badge/AWS_EC2-d28545?style=flat-square&logo=AWS&logoColor=white">
+<img src="https://img.shields.io/badge/AWS_RDS-537bb8?style=flat-square&logo=AWS&logoColor=white">
+<img src="https://img.shields.io/badge/AWS_ELB-d18247?style=flat-square&logo=AWS&logoColor=white">
+<img src="https://img.shields.io/badge/NGINX-4b8c4d?style=flat-square&logo=nginx&logoColor=white">
+<img src="https://img.shields.io/badge/FIREBASE-d17f32?style=flat-square&logo=firebase&logoColor=white">
+  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=proceane&layout=compact&hide=css,html)](https://github.com/anuraghazra/github-readme-stats)
 &nbsp;![GitHub stats](https://github-readme-stats.vercel.app/api?username=proceane&theme=algolia)  
 <!--![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=proceane)  -->
