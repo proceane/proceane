@@ -14,9 +14,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<div align="center">
+<!-- <div align="center">
 <img src="https://im5.ezgif.com/tmp/ezgif-5-0c0e3d2a56.gif" align="center" style="width: 100%" />
-</div>  
+</div>   -->
 
 <!--### 👋 I want to be ever-growing developer. 👋-->
 ### <div align="center">🚀 I want to be ever-growing developer. 🚀</div>  
