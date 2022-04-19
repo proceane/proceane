@@ -32,23 +32,10 @@ Here are some ideas to get you started:
 
 <h3 align="center">Stack</h3>
 <div align="center">
-<img src="https://img.shields.io/badge/JAVA-416db0?style=flat-square&logo=Java&logoColor=white">
-<img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white">
-<img src="https://img.shields.io/badge/javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=black">
-<img src="https://img.shields.io/badge/SPRING-7aa84d?style=flat-square&logo=Spring&logoColor=white">
-<img src="https://img.shields.io/badge/Django-103e2e?style=flat-square&logo=Django&logoColor=white">
-<!-- <img src="https://img.shields.io/badge/JPA-7aa84d?style=flat-square&logo=&logoColor=white"> -->
-<!-- <img src="https://img.shields.io/badge/JWT-7aa84d?style=flat-square&logo=&logoColor=white"> -->
-<img src="https://img.shields.io/badge/MySQL-335b7f?style=flat-square&logo=Mysql&logoColor=white">
-<img src="https://img.shields.io/badge/AWS-d28545?style=flat-square&logo=AWS&logoColor=white">
-<!-- <img src="https://img.shields.io/badge/AWS_EC2-d28545?style=flat-square&logo=AWS&logoColor=white">
-<img src="https://img.shields.io/badge/AWS_RDS-537bb8?style=flat-square&logo=AWS&logoColor=white">
-<img src="https://img.shields.io/badge/AWS_ELB-d18247?style=flat-square&logo=AWS&logoColor=white"> -->
-<img src="https://img.shields.io/badge/NGINX-4b8c4d?style=flat-square&logo=nginx&logoColor=white">
-<img src="https://img.shields.io/badge/FIREBASE-d17f32?style=flat-square&logo=firebase&logoColor=white">
-<img src="https://img.shields.io/badge/github-181717?style=flat-square&logo=github&logoColor=white">
-<img src="https://img.shields.io/badge/html-E34F26?style=flat-square&logo=html5&logoColor=white">
-<img src="https://img.shields.io/badge/Markdown-181717?style=flat-square&logo=Markdown&logoColor=white">
+<img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"> <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=flat-square&logo=Javascript&logoColor=white"> <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"> 
+<img src="https://img.shields.io/badge/Vuetify-1867C0?style=flat-square&logo=Vuetify&logoColor=white"> <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"> <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat-square&logo=Spring Boot&logoColor=white"> <img src="https://img.shields.io/badge/Swagger-85EA2D?style=flat-square&logo=Swagger&logoColor=white"> <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white">
+<img src="https://img.shields.io/badge/Google%20Firebase-FFCA28?style=flat-square&logo=Firebase&logoColor=white"> <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"> <img src="https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=Jenkins&logoColor=white"> <img src="https://img.shields.io/badge/Github-181717?style=flat-square&logo=Github&logoColor=white">
+<img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"> <img src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=Slack&logoColor=white">
 </div>
   
 <br>
