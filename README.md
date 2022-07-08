@@ -18,13 +18,17 @@ Here are some ideas to get you started:
 <!-- <img src="https://github.com/proceane/proceane/blob/main/star.gif" align="center" style="width: 100%" /> -->
 </div>  
 
-<!--### 👋 I want to be ever-growing developer. 👋-->
-### <div align="center">🚀 I want to be ever-growing developer. 🚀</div>  
-  
-<div align="center">📝I’m currently studying <b>algorithm, web, database, java 📝</b></div>  
-  
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Concert+One&size=30&center=true&vCenter=true&lines=I'm+Backend+Developer.;I+like+problem+solving.;Nice+to+meet+you!"></a>
+</p>
 
-<br/>  
+
+<!--### 👋 I want to be ever-growing developer. 👋-->
+<!-- ### <div align="center">🚀 I want to be ever-growing developer. 🚀</div> --> 
+  
+<!-- <div align="center">📝I’m currently studying <b>algorithm, web, database, java 📝</b></div> -->  
+
+<!-- <br/> -->  
 
 <!--<h3 align="center">Languages and Tools:</h3>
 <p align="center"> <a href="https://www.djangoproject.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg" alt="django" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> <a href="https://vuetifyjs.com/en/" target="_blank"> <img src="https://bestofjs.org/logos/vuetify.svg" alt="vuetify" width="40" height="40"/> </a> </p> -->
@@ -44,9 +48,12 @@ Here are some ideas to get you started:
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=proceane&show_icons=true&count_private=true&hide_border=true&theme=algolia" align="center" />
   
+  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=proceane&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
+  
+  [![trophy](https://github-profile-trophy.vercel.app/?username=proceane&theme=darkhub)](https://github.com/ryo-ma/github-profile-trophy)
+</div>
 <!--   [![Solved.ac 
   프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=proceane)](https://solved.ac/proceane) -->
-</div>
 <!--![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=proceane)  -->
 
 <!-- <div align="center">
