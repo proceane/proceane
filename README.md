@@ -50,7 +50,7 @@ Here are some ideas to get you started:
   
   [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=proceane&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
   
-  [![trophy](https://github-profile-trophy.vercel.app/?username=proceane&theme=darkhub)](https://github.com/ryo-ma/github-profile-trophy)
+  [![trophy](https://github-profile-trophy.vercel.app/?username=proceane&theme=darkhub&title=MultiLanguage,Joined2020,Commits,PullRequest,Issue,Repositories)](https://github.com/ryo-ma/github-profile-trophy)
 </div>
 <!--   [![Solved.ac 
   프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=proceane)](https://solved.ac/proceane) -->
