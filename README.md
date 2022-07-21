@@ -35,6 +35,7 @@ Here are some ideas to get you started:
 <br>
 <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"> <img src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=Slack&logoColor=white">
  <img src="https://img.shields.io/badge/Confluence-172B4D?style=flat-square&logo=Confluence&logoColor=white">
+ <img src="https://img.shields.io/badge/Github%20Actions-2088FF?style=flat-square&logo=GithubActions&logoColor=white">
 </div>
   
 <br>
