@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 
 <h3 align="center">Stack</h3>
 <div align="center">
-  <a href="https://skill-badge-generator.proceane.dev/">
+  <a href="https://skill-badge-generator.proceane.dev/" target="_blank">
     <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"> <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=flat-square&logo=Javascript&logoColor=white"> <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"> 
     <img src="https://img.shields.io/badge/Vuetify-1867C0?style=flat-square&logo=Vuetify&logoColor=white"> <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"> 
      <br> 
