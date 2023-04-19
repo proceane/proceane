@@ -1,3 +1,7 @@
+<div align="center">
+  
+[![Shine Soul](https://shine-soul.vercel.app/api/star)](https://github.com/proceane/shine-soul)
+</div>
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Concert+One&size=30&center=true&vCenter=true&lines=I'm+Backend+Developer.;I+like+problem+solving.;Nice+to+meet+you!"></a>
