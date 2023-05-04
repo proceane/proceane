@@ -1,6 +1,6 @@
 <div align="center">
   
-[![Shine Soul](https://shine-soul.vercel.app/api/star)](https://github.com/proceane/shine-soul)
+[![Shine Soul](https://shine-soul.vercel.app/api/star?isAnimate=true)](https://github.com/proceane/shine-soul)
 </div>
 
 <p align="center">
