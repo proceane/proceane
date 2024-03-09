@@ -23,11 +23,9 @@
      <img src="https://img.shields.io/badge/Confluence-172B4D?style=flat-square&logo=Confluence&logoColor=white">
      <img src="https://img.shields.io/badge/Github%20Actions-2088FF?style=flat-square&logo=GithubActions&logoColor=white">
   </a>
-</div>
   
 <br>
 
-<div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=proceane&show_icons=true&count_private=true&hide_border=true&theme=algolia" align="center" />
   
   [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=proceane&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
